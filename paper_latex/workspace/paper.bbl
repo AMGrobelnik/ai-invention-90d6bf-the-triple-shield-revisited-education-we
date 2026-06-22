@@ -1,0 +1,89 @@
+\begin{thebibliography}{13}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Acemoglu and Robinson(2006)]{Acemoglu2006}
+Daron Acemoglu and James~A. Robinson.
+\newblock De facto political power and institutional persistence.
+\newblock \emph{American Economic Review}, 96\penalty0 (2):\penalty0 325--330,
+  2006.
+\newblock \doi{10.1257/aer.96.2.325}.
+
+\bibitem[Aguinis et~al.(2005)Aguinis, Beaty, Boik, and Pierce]{Aguinis2005}
+Herman Aguinis, James~C. Beaty, R.~J. Boik, and C.~A. Pierce.
+\newblock Effect size and power in assessing moderating effects of categorical
+  variables using multiple regression: A 30-year review.
+\newblock \emph{Journal of Applied Psychology}, 90\penalty0 (1):\penalty0
+  94--107, 2005.
+\newblock \doi{10.1037/0021-9010.90.1.94}.
+
+\bibitem[Barro and Lee(2013)]{Barro2013}
+Robert~J. Barro and Jong~Wha Lee.
+\newblock A new data set of educational attainment in the world, 1950--2010.
+\newblock \emph{Journal of Development Economics}, 104:\penalty0 184--198,
+  2013.
+\newblock \doi{10.1016/j.jdeveco.2013.01.002}.
+
+\bibitem[Brambor et~al.(2006)Brambor, Clark, and Golder]{Brambor2006}
+Thomas Brambor, William~Roberts Clark, and Matt Golder.
+\newblock Understanding interaction models: Improving empirical analyses.
+\newblock \emph{Political Analysis}, 14\penalty0 (1):\penalty0 63--82, 2006.
+\newblock \doi{10.1093/pan/mpi014}.
+
+\bibitem[Carothers and Hartnett(2024)]{Carothers2024}
+Thomas Carothers and Brendan Hartnett.
+\newblock Misunderstanding democratic backsliding.
+\newblock \emph{Journal of Democracy}, 35\penalty0 (3):\penalty0 24--37, 2024.
+
+\bibitem[Coppedge et~al.(2023)]{Coppedge2023}
+Michael Coppedge et~al.
+\newblock V-dem country-year dataset v13.
+\newblock Technical report, Varieties of Democracy (V-Dem) Project, University
+  of Gothenburg, 2023.
+
+\bibitem[Haggard and Kaufman(2021)]{Haggard2021}
+Stephan Haggard and Robert~R. Kaufman.
+\newblock \emph{The Political Economy of the Welfare State}.
+\newblock Cambridge University Press, 2021.
+
+\bibitem[in~Data(2024)]{OurWorldinData2024}
+Our~World in~Data.
+\newblock Data on inequality, education, and social spending.
+\newblock \url{https://ourworldindata.org}, 2024.
+
+\bibitem[Milligan et~al.(2004)Milligan, Moretti, and Oreopoulos]{Milligan2004}
+Kevin Milligan, Enrico Moretti, and Philip Oreopoulos.
+\newblock Does education improve citizenship? evidence from the united states
+  and the united kingdom.
+\newblock \emph{Journal of Public Economics}, 88\penalty0 (9--10):\penalty0
+  1667--1695, 2004.
+\newblock \doi{10.1016/j.jpubeco.2003.12.005}.
+
+\bibitem[Orenstein(2008)]{Orenstein2008}
+Mitchell~A. Orenstein.
+\newblock Poverty, inequality, and democracy: Postcommunist welfare states.
+\newblock \emph{Journal of Democracy}, 19\penalty0 (4):\penalty0 80--94, 2008.
+\newblock \doi{10.1353/jod.2008.0055}.
+
+\bibitem[Rau and Stokes(2024)]{Rau2024}
+Eli~G. Rau and Susan~C. Stokes.
+\newblock Income inequality and the erosion of democracy in the twenty-first
+  century.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 122\penalty0
+  (8):\penalty0 e2422543121, 2024.
+\newblock \doi{10.1073/pnas.2422543121}.
+
+\bibitem[Rosenstone and Hansen(1993)]{Rosenstone1993}
+Steven~J. Rosenstone and John~Mark Hansen.
+\newblock \emph{Mobilization, Participation, and Democracy in America}.
+\newblock Macmillan, 1993.
+
+\bibitem[Rubin(1987)]{Rubin1987}
+Donald~B. Rubin.
+\newblock \emph{Multiple Imputation for Nonresponse in Surveys}.
+\newblock John Wiley \& Sons, 1987.
+
+\end{thebibliography}

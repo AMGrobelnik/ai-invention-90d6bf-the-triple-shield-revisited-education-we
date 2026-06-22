@@ -1,0 +1,16 @@
+{
+  "title": "The Triple Shield Revisited: Education, Welfare, and Inequality-Democracy",
+  "summary": "Successfully created a publication-ready LaTeX paper with BibTeX from provided paper text and figures, then compiled to PDF. The paper includes all 5 required figures (fig1_v0.jpg through fig5_v0.jpg) inserted at appropriate locations in the text using begin{figure*}/begin{figure} environments with proper placement specifiers. The references.bib file contains all 14 references from the paper text, created manually with proper BibTeX formatting since the aii_semscholar_bib__fetch tool could only retrieve 4 out of 14 references. The LaTeX compilation completed successfully through pdflatex -> bibtex -> pdflatex -> pdflatex workflow, producing a 12-page PDF (6.8MB). Visual review of all 12 pages (converted to PNG at 150 DPI) confirmed proper layout: title page (p.1), figure 1 conceptual framework (p.2), theoretical framework (p.3-4), data and methods with figure 2 sample map (p.5) and figure 3 descriptive statistics (p.6), results with figure 4 regression table (p.7) and figure 5 marginal effects plot (p.9), discussion and conclusion (p.8, 10), and bibliography (p.11-12). The xurl package was added to handle URL line breaks in the footnote.",
+  "out_expected_files": {
+    "paper_tex_path": "paper.tex",
+    "paper_pdf_path": "paper.pdf",
+    "references_bib_path": "references.bib",
+    "figure_paths": [
+      "figures/fig1_v0.jpg",
+      "figures/fig2_v0.jpg",
+      "figures/fig3_v0.jpg",
+      "figures/fig4_v0.jpg",
+      "figures/fig5_v0.jpg"
+    ]
+  }
+}
