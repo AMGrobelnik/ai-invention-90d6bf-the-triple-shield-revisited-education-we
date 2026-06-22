@@ -1,0 +1,409 @@
+{
+  "datasets": [
+    {
+      "dataset": "owid_panel_triple_shield",
+      "examples": [
+        {
+          "input": "{\"gini\": null, \"education_years\": 8.61, \"social_spending\": null, \"gdp_per_capita\": 5560.857, \"resource_rents\": 8.22403, \"population\": 3277965.0, \"gini_x_education\": null, \"gini_x_social\": null, \"triple_interaction\": null}",
+          "output": "0.187",
+          "metadata_fold": 0,
+          "metadata_feature_names": [
+            "gini",
+            "education_years",
+            "social_spending",
+            "gdp_per_capita",
+            "resource_rents",
+            "population",
+            "gini_x_education",
+            "gini_x_social",
+            "triple_interaction"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_row_index": 0,
+          "metadata_country": "ALB",
+          "metadata_year": 1990
+        },
+        {
+          "input": "{\"gini\": null, \"education_years\": 7.0, \"social_spending\": null, \"gdp_per_capita\": 6137.6006, \"resource_rents\": 0.0, \"population\": 3552130.0, \"gini_x_education\": null, \"gini_x_social\": null, \"triple_interaction\": null}",
+          "output": "0.5650000000000001",
+          "metadata_fold": 3,
+          "metadata_feature_names": [
+            "gini",
+            "education_years",
+            "social_spending",
+            "gdp_per_capita",
+            "resource_rents",
+            "population",
+            "gini_x_education",
+            "gini_x_social",
+            "triple_interaction"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_row_index": 33,
+          "metadata_country": "ARM",
+          "metadata_year": 1990
+        },
+        {
+          "input": "{\"gini\": null, \"education_years\": 7.0, \"social_spending\": null, \"gdp_per_capita\": 10776.067, \"resource_rents\": 17.727814, \"population\": 7231084.0, \"gini_x_education\": null, \"gini_x_social\": null, \"triple_interaction\": null}",
+          "output": "0.17200000000000001",
+          "metadata_fold": 1,
+          "metadata_feature_names": [
+            "gini",
+            "education_years",
+            "social_spending",
+            "gdp_per_capita",
+            "resource_rents",
+            "population",
+            "gini_x_education",
+            "gini_x_social",
+            "triple_interaction"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_row_index": 66,
+          "metadata_country": "AZE",
+          "metadata_year": 1990
+        },
+        {
+          "input": "{\"gini\": null, \"education_years\": 5.0, \"social_spending\": null, \"gdp_per_capita\": 12351.636, \"resource_rents\": 1.4649532, \"population\": 10186258.0, \"gini_x_education\": null, \"gini_x_social\": null, \"triple_interaction\": null}",
+          "output": "0.457",
+          "metadata_fold": 4,
+          "metadata_feature_names": [
+            "gini",
+            "education_years",
+            "social_spending",
+            "gdp_per_capita",
+            "resource_rents",
+            "population",
+            "gini_x_education",
+            "gini_x_social",
+            "triple_interaction"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_row_index": 99,
+          "metadata_country": "BLR",
+          "metadata_year": 1990
+        },
+        {
+          "input": "{\"gini\": null, \"education_years\": 2.24, \"social_spending\": null, \"gdp_per_capita\": 2207.0679, \"resource_rents\": 7.962448, \"population\": 5281482.0, \"gini_x_education\": null, \"gini_x_social\": null, \"triple_interaction\": null}",
+          "output": "0.221",
+          "metadata_fold": 2,
+          "metadata_feature_names": [
+            "gini",
+            "education_years",
+            "social_spending",
+            "gdp_per_capita",
+            "resource_rents",
+            "population",
+            "gini_x_education",
+            "gini_x_social",
+            "triple_interaction"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_row_index": 132,
+          "metadata_country": "BEN",
+          "metadata_year": 1990
+        },
+        {
+          "input": "{\"gini\": null, \"education_years\": 8.0, \"social_spending\": null, \"gdp_per_capita\": 2413.9482, \"resource_rents\": 1.4810543436, \"population\": 4448658.0, \"gini_x_education\": null, \"gini_x_social\": null, \"triple_interaction\": null}",
+          "output": "0.2",
+          "metadata_fold": 0,
+          "metadata_feature_names": [
+            "gini",
+            "education_years",
+            "social_spending",
+            "gdp_per_capita",
+            "resource_rents",
+            "population",
+            "gini_x_education",
+            "gini_x_social",
+            "triple_interaction"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_row_index": 165,
+          "metadata_country": "BIH",
+          "metadata_year": 1990
+        },
+        {
+          "input": "{\"gini\": null, \"education_years\": 5.0, \"social_spending\": 5.7396302223, \"gdp_per_capita\": 10520.918, \"resource_rents\": 2.0490239, \"population\": 1305699.0, \"gini_x_education\": null, \"gini_x_social\": null, \"triple_interaction\": null}",
+          "output": "0.683",
+          "metadata_fold": 3,
+          "metadata_feature_names": [
+            "gini",
+            "education_years",
+            "social_spending",
+            "gdp_per_capita",
+            "resource_rents",
+            "population",
+            "gini_x_education",
+            "gini_x_social",
+            "triple_interaction"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_row_index": 198,
+          "metadata_country": "BWA",
+          "metadata_year": 1990
+        },
+        {
+          "input": "{\"gini\": null, \"education_years\": 8.68, \"social_spending\": 4.4540600777, \"gdp_per_capita\": 14954.961, \"resource_rents\": 1.1143819, \"population\": 8822366.0, \"gini_x_education\": null, \"gini_x_social\": null, \"triple_interaction\": null}",
+          "output": "0.5720000000000001",
+          "metadata_fold": 1,
+          "metadata_feature_names": [
+            "gini",
+            "education_years",
+            "social_spending",
+            "gdp_per_capita",
+            "resource_rents",
+            "population",
+            "gini_x_education",
+            "gini_x_social",
+            "triple_interaction"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_row_index": 231,
+          "metadata_country": "BGR",
+          "metadata_year": 1990
+        },
+        {
+          "input": "{\"gini\": null, \"education_years\": 5.0, \"social_spending\": null, \"gdp_per_capita\": 1848.7587, \"resource_rents\": 59.433342, \"population\": 375437.0, \"gini_x_education\": null, \"gini_x_social\": null, \"triple_interaction\": null}",
+          "output": "0.338",
+          "metadata_fold": 4,
+          "metadata_feature_names": [
+            "gini",
+            "education_years",
+            "social_spending",
+            "gdp_per_capita",
+            "resource_rents",
+            "population",
+            "gini_x_education",
+            "gini_x_social",
+            "triple_interaction"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_row_index": 264,
+          "metadata_country": "CPV",
+          "metadata_year": 1990
+        },
+        {
+          "input": "{\"gini\": null, \"education_years\": 8.0, \"social_spending\": null, \"gdp_per_capita\": 23399.736, \"resource_rents\": 0.8082078078, \"population\": 4835067.0, \"gini_x_education\": null, \"gini_x_social\": null, \"triple_interaction\": null}",
+          "output": "0.2",
+          "metadata_fold": 2,
+          "metadata_feature_names": [
+            "gini",
+            "education_years",
+            "social_spending",
+            "gdp_per_capita",
+            "resource_rents",
+            "population",
+            "gini_x_education",
+            "gini_x_social",
+            "triple_interaction"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_row_index": 297,
+          "metadata_country": "HRV",
+          "metadata_year": 1990
+        },
+        {
+          "input": "{\"gini\": null, \"education_years\": 11.35, \"social_spending\": 13.927, \"gdp_per_capita\": 27918.137, \"resource_rents\": 1.4333467, \"population\": 10301989.0, \"gini_x_education\": null, \"gini_x_social\": null, \"triple_interaction\": null}",
+          "output": "0.794",
+          "metadata_fold": 0,
+          "metadata_feature_names": [
+            "gini",
+            "education_years",
+            "social_spending",
+            "gdp_per_capita",
+            "resource_rents",
+            "population",
+            "gini_x_education",
+            "gini_x_social",
+            "triple_interaction"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_row_index": 330,
+          "metadata_country": "CZE",
+          "metadata_year": 1990
+        },
+        {
+          "input": "{\"gini\": null, \"education_years\": 6.0, \"social_spending\": null, \"gdp_per_capita\": 19163.229, \"resource_rents\": 2.0142325556, \"population\": 1570309.0, \"gini_x_education\": null, \"gini_x_social\": null, \"triple_interaction\": null}",
+          "output": "0.797",
+          "metadata_fold": 3,
+          "metadata_feature_names": [
+            "gini",
+            "education_years",
+            "social_spending",
+            "gdp_per_capita",
+            "resource_rents",
+            "population",
+            "gini_x_education",
+            "gini_x_social",
+            "triple_interaction"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_row_index": 363,
+          "metadata_country": "EST",
+          "metadata_year": 1990
+        },
+        {
+          "input": "{\"gini\": null, \"education_years\": 7.0, \"social_spending\": null, \"gdp_per_capita\": 12917.095, \"resource_rents\": 0.672836, \"population\": 5448865.0, \"gini_x_education\": null, \"gini_x_social\": null, \"triple_interaction\": null}",
+          "output": "0.313",
+          "metadata_fold": 1,
+          "metadata_feature_names": [
+            "gini",
+            "education_years",
+            "social_spending",
+            "gdp_per_capita",
+            "resource_rents",
+            "population",
+            "gini_x_education",
+            "gini_x_social",
+            "triple_interaction"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_row_index": 396,
+          "metadata_country": "GEO",
+          "metadata_year": 1990
+        },
+        {
+          "input": "{\"gini\": null, \"education_years\": 6.05, \"social_spending\": null, \"gdp_per_capita\": 2785.6711, \"resource_rents\": 6.8627405, \"population\": 15394650.0, \"gini_x_education\": null, \"gini_x_social\": null, \"triple_interaction\": null}",
+          "output": "0.10400000000000001",
+          "metadata_fold": 4,
+          "metadata_feature_names": [
+            "gini",
+            "education_years",
+            "social_spending",
+            "gdp_per_capita",
+            "resource_rents",
+            "population",
+            "gini_x_education",
+            "gini_x_social",
+            "triple_interaction"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_row_index": 429,
+          "metadata_country": "GHA",
+          "metadata_year": 1990
+        },
+        {
+          "input": "{\"gini\": null, \"education_years\": 3.66, \"social_spending\": null, \"gdp_per_capita\": 7594.7285, \"resource_rents\": 1.8304551999999998, \"population\": 9024775.0, \"gini_x_education\": null, \"gini_x_social\": null, \"triple_interaction\": null}",
+          "output": "0.371",
+          "metadata_fold": 2,
+          "metadata_feature_names": [
+            "gini",
+            "education_years",
+            "social_spending",
+            "gdp_per_capita",
+            "resource_rents",
+            "population",
+            "gini_x_education",
+            "gini_x_social",
+            "triple_interaction"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_row_index": 462,
+          "metadata_country": "GTM",
+          "metadata_year": 1990
+        },
+        {
+          "input": "{\"gini\": null, \"education_years\": 3.56, \"social_spending\": null, \"gdp_per_capita\": 3959.0251, \"resource_rents\": 0.75898063, \"population\": 6854444.0, \"gini_x_education\": null, \"gini_x_social\": null, \"triple_interaction\": null}",
+          "output": "0.202",
+          "metadata_fold": 0,
+          "metadata_feature_names": [
+            "gini",
+            "education_years",
+            "social_spending",
+            "gdp_per_capita",
+            "resource_rents",
+            "population",
+            "gini_x_education",
+            "gini_x_social",
+            "triple_interaction"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_row_index": 495,
+          "metadata_country": "HTI",
+          "metadata_year": 1990
+        },
+        {
+          "input": "{\"gini\": null, \"education_years\": 9.48, \"social_spending\": 5.4141898155, \"gdp_per_capita\": 21297.0, \"resource_rents\": 0.5217090603, \"population\": 10381280.0, \"gini_x_education\": null, \"gini_x_social\": null, \"triple_interaction\": null}",
+          "output": "0.799",
+          "metadata_fold": 3,
+          "metadata_feature_names": [
+            "gini",
+            "education_years",
+            "social_spending",
+            "gdp_per_capita",
+            "resource_rents",
+            "population",
+            "gini_x_education",
+            "gini_x_social",
+            "triple_interaction"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_row_index": 528,
+          "metadata_country": "HUN",
+          "metadata_year": 1990
+        },
+        {
+          "input": "{\"gini\": 0.3106927276, \"education_years\": 4.44, \"social_spending\": null, \"gdp_per_capita\": 4873.0537, \"resource_rents\": 13.273647, \"population\": 183501097.0, \"gini_x_education\": 1.3794757105, \"gini_x_social\": null, \"triple_interaction\": null}",
+          "output": "0.192",
+          "metadata_fold": 1,
+          "metadata_feature_names": [
+            "gini",
+            "education_years",
+            "social_spending",
+            "gdp_per_capita",
+            "resource_rents",
+            "population",
+            "gini_x_education",
+            "gini_x_social",
+            "triple_interaction"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_row_index": 561,
+          "metadata_country": "IDN",
+          "metadata_year": 1990
+        },
+        {
+          "input": "{\"gini\": null, \"education_years\": 7.0, \"social_spending\": null, \"gdp_per_capita\": 16837.691, \"resource_rents\": 15.68435, \"population\": 17154060.0, \"gini_x_education\": null, \"gini_x_social\": null, \"triple_interaction\": null}",
+          "output": "0.247",
+          "metadata_fold": 4,
+          "metadata_feature_names": [
+            "gini",
+            "education_years",
+            "social_spending",
+            "gdp_per_capita",
+            "resource_rents",
+            "population",
+            "gini_x_education",
+            "gini_x_social",
+            "triple_interaction"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_row_index": 594,
+          "metadata_country": "KAZ",
+          "metadata_year": 1990
+        },
+        {
+          "input": "{\"gini\": null, \"education_years\": 7.0, \"social_spending\": null, \"gdp_per_capita\": 6095.681, \"resource_rents\": 1.0883175, \"population\": 4459545.0, \"gini_x_education\": null, \"gini_x_social\": null, \"triple_interaction\": null}",
+          "output": "0.252",
+          "metadata_fold": 2,
+          "metadata_feature_names": [
+            "gini",
+            "education_years",
+            "social_spending",
+            "gdp_per_capita",
+            "resource_rents",
+            "population",
+            "gini_x_education",
+            "gini_x_social",
+            "triple_interaction"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_row_index": 627,
+          "metadata_country": "KGZ",
+          "metadata_year": 1990
+        }
+      ]
+    }
+  ]
+}

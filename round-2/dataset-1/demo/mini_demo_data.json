@@ -1,0 +1,358 @@
+{
+  "datasets": [
+    {
+      "dataset": "post1990_democratizers_panel",
+      "examples": [
+        {
+          "input": "{\"gini\": 0.3802126491, \"education\": 10.259296107499999, \"social_spending\": 18.3496407147, \"region_Africa\": 0.0, \"region_Asia\": 1.0, \"region_Europe\": 0.0, \"region_North_America\": 0.0, \"region_Oceania\": 0.0, \"region_South_America\": 0.0, \"region_Unknown\": 0.0}",
+          "output": "0.5650000000000001",
+          "metadata_country": "Armenia",
+          "metadata_country_code": "ARM",
+          "metadata_year": 1990,
+          "metadata_fold": 0,
+          "metadata_feature_names": [
+            "gini",
+            "education",
+            "social_spending",
+            "region_Africa",
+            "region_Asia",
+            "region_Europe",
+            "region_North_America",
+            "region_Oceania",
+            "region_South_America",
+            "region_Unknown"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_n_classes": null
+        },
+        {
+          "input": "{\"gini\": 0.29709985850000004, \"education\": 6.1105642241, \"social_spending\": 9.5513915952, \"region_Africa\": 0.0, \"region_Asia\": 1.0, \"region_Europe\": 0.0, \"region_North_America\": 0.0, \"region_Oceania\": 0.0, \"region_South_America\": 0.0, \"region_Unknown\": 0.0}",
+          "output": "0.338",
+          "metadata_country": "Armenia",
+          "metadata_country_code": "ARM",
+          "metadata_year": 2006,
+          "metadata_fold": 1,
+          "metadata_feature_names": [
+            "gini",
+            "education",
+            "social_spending",
+            "region_Africa",
+            "region_Asia",
+            "region_Europe",
+            "region_North_America",
+            "region_Oceania",
+            "region_South_America",
+            "region_Unknown"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_n_classes": null
+        },
+        {
+          "input": "{\"gini\": 0.2794529498, \"education\": 7.1660912396, \"social_spending\": 13.463309747, \"region_Africa\": 0.0, \"region_Asia\": 1.0, \"region_Europe\": 0.0, \"region_North_America\": 0.0, \"region_Oceania\": 0.0, \"region_South_America\": 0.0, \"region_Unknown\": 0.0}",
+          "output": "0.654",
+          "metadata_country": "Armenia",
+          "metadata_country_code": "ARM",
+          "metadata_year": 2022,
+          "metadata_fold": 2,
+          "metadata_feature_names": [
+            "gini",
+            "education",
+            "social_spending",
+            "region_Africa",
+            "region_Asia",
+            "region_Europe",
+            "region_North_America",
+            "region_Oceania",
+            "region_South_America",
+            "region_Unknown"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_n_classes": null
+        },
+        {
+          "input": "{\"gini\": 0.4777842366, \"education\": 3.15, \"social_spending\": 0.0, \"region_Africa\": 0.0, \"region_Asia\": 1.0, \"region_Europe\": 0.0, \"region_North_America\": 0.0, \"region_Oceania\": 0.0, \"region_South_America\": 0.0, \"region_Unknown\": 0.0}",
+          "output": "0.302",
+          "metadata_country": "Bangladesh",
+          "metadata_country_code": "BGD",
+          "metadata_year": 1990,
+          "metadata_fold": 3,
+          "metadata_feature_names": [
+            "gini",
+            "education",
+            "social_spending",
+            "region_Africa",
+            "region_Asia",
+            "region_Europe",
+            "region_North_America",
+            "region_Oceania",
+            "region_South_America",
+            "region_Unknown"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_n_classes": null
+        },
+        {
+          "input": "{\"gini\": 0.34674902350000003, \"education\": 4.5778540802, \"social_spending\": 10.4320823451, \"region_Africa\": 0.0, \"region_Asia\": 1.0, \"region_Europe\": 0.0, \"region_North_America\": 0.0, \"region_Oceania\": 0.0, \"region_South_America\": 0.0, \"region_Unknown\": 0.0}",
+          "output": "0.423",
+          "metadata_country": "Bangladesh",
+          "metadata_country_code": "BGD",
+          "metadata_year": 2006,
+          "metadata_fold": 4,
+          "metadata_feature_names": [
+            "gini",
+            "education",
+            "social_spending",
+            "region_Africa",
+            "region_Asia",
+            "region_Europe",
+            "region_North_America",
+            "region_Oceania",
+            "region_South_America",
+            "region_Unknown"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_n_classes": null
+        },
+        {
+          "input": "{\"gini\": 0.3093025386, \"education\": 8.7328332409, \"social_spending\": 10.272891918100001, \"region_Africa\": 0.0, \"region_Asia\": 1.0, \"region_Europe\": 0.0, \"region_North_America\": 0.0, \"region_Oceania\": 0.0, \"region_South_America\": 0.0, \"region_Unknown\": 0.0}",
+          "output": "0.261",
+          "metadata_country": "Bangladesh",
+          "metadata_country_code": "BGD",
+          "metadata_year": 2022,
+          "metadata_fold": 0,
+          "metadata_feature_names": [
+            "gini",
+            "education",
+            "social_spending",
+            "region_Africa",
+            "region_Asia",
+            "region_Europe",
+            "region_North_America",
+            "region_Oceania",
+            "region_South_America",
+            "region_Unknown"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_n_classes": null
+        },
+        {
+          "input": "{\"gini\": 0.572357595, \"education\": 8.58, \"social_spending\": 9.558, \"region_Africa\": 0.0, \"region_Asia\": 0.0, \"region_Europe\": 0.0, \"region_North_America\": 0.0, \"region_Oceania\": 0.0, \"region_South_America\": 1.0, \"region_Unknown\": 0.0}",
+          "output": "0.721",
+          "metadata_country": "Chile",
+          "metadata_country_code": "CHL",
+          "metadata_year": 1990,
+          "metadata_fold": 1,
+          "metadata_feature_names": [
+            "gini",
+            "education",
+            "social_spending",
+            "region_Africa",
+            "region_Asia",
+            "region_Europe",
+            "region_North_America",
+            "region_Oceania",
+            "region_South_America",
+            "region_Unknown"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_n_classes": null
+        },
+        {
+          "input": "{\"gini\": 0.4770688415, \"education\": 8.1248252152, \"social_spending\": 8.212, \"region_Africa\": 0.0, \"region_Asia\": 0.0, \"region_Europe\": 0.0, \"region_North_America\": 0.0, \"region_Oceania\": 0.0, \"region_South_America\": 1.0, \"region_Unknown\": 0.0}",
+          "output": "0.894",
+          "metadata_country": "Chile",
+          "metadata_country_code": "CHL",
+          "metadata_year": 2006,
+          "metadata_fold": 2,
+          "metadata_feature_names": [
+            "gini",
+            "education",
+            "social_spending",
+            "region_Africa",
+            "region_Asia",
+            "region_Europe",
+            "region_North_America",
+            "region_Oceania",
+            "region_South_America",
+            "region_Unknown"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_n_classes": null
+        },
+        {
+          "input": "{\"gini\": 0.43235561250000004, \"education\": 8.0268255471, \"social_spending\": 12.313, \"region_Africa\": 0.0, \"region_Asia\": 0.0, \"region_Europe\": 0.0, \"region_North_America\": 0.0, \"region_Oceania\": 0.0, \"region_South_America\": 1.0, \"region_Unknown\": 0.0}",
+          "output": "0.833",
+          "metadata_country": "Chile",
+          "metadata_country_code": "CHL",
+          "metadata_year": 2022,
+          "metadata_fold": 3,
+          "metadata_feature_names": [
+            "gini",
+            "education",
+            "social_spending",
+            "region_Africa",
+            "region_Asia",
+            "region_Europe",
+            "region_North_America",
+            "region_Oceania",
+            "region_South_America",
+            "region_Unknown"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_n_classes": null
+        },
+        {
+          "input": "{\"gini\": 0.4212797133, \"education\": 11.35, \"social_spending\": 13.927, \"region_Africa\": 0.0, \"region_Asia\": 0.0, \"region_Europe\": 1.0, \"region_North_America\": 0.0, \"region_Oceania\": 0.0, \"region_South_America\": 0.0, \"region_Unknown\": 0.0}",
+          "output": "0.794",
+          "metadata_country": "Czechia",
+          "metadata_country_code": "CZE",
+          "metadata_year": 1990,
+          "metadata_fold": 4,
+          "metadata_feature_names": [
+            "gini",
+            "education",
+            "social_spending",
+            "region_Africa",
+            "region_Asia",
+            "region_Europe",
+            "region_North_America",
+            "region_Oceania",
+            "region_South_America",
+            "region_Unknown"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_n_classes": null
+        },
+        {
+          "input": "{\"gini\": 0.2674411833, \"education\": 13.1781773118, \"social_spending\": 17.576, \"region_Africa\": 0.0, \"region_Asia\": 0.0, \"region_Europe\": 1.0, \"region_North_America\": 0.0, \"region_Oceania\": 0.0, \"region_South_America\": 0.0, \"region_Unknown\": 0.0}",
+          "output": "0.896",
+          "metadata_country": "Czechia",
+          "metadata_country_code": "CZE",
+          "metadata_year": 2006,
+          "metadata_fold": 0,
+          "metadata_feature_names": [
+            "gini",
+            "education",
+            "social_spending",
+            "region_Africa",
+            "region_Asia",
+            "region_Europe",
+            "region_North_America",
+            "region_Oceania",
+            "region_South_America",
+            "region_Unknown"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_n_classes": null
+        },
+        {
+          "input": "{\"gini\": 0.2587038875, \"education\": 9.1988030802, \"social_spending\": 21.228, \"region_Africa\": 0.0, \"region_Asia\": 0.0, \"region_Europe\": 1.0, \"region_North_America\": 0.0, \"region_Oceania\": 0.0, \"region_South_America\": 0.0, \"region_Unknown\": 0.0}",
+          "output": "0.854",
+          "metadata_country": "Czechia",
+          "metadata_country_code": "CZE",
+          "metadata_year": 2022,
+          "metadata_fold": 1,
+          "metadata_feature_names": [
+            "gini",
+            "education",
+            "social_spending",
+            "region_Africa",
+            "region_Asia",
+            "region_Europe",
+            "region_North_America",
+            "region_Oceania",
+            "region_South_America",
+            "region_Unknown"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_n_classes": null
+        },
+        {
+          "input": "{\"gini\": 0.5577389724, \"education\": 6.05, \"social_spending\": 6.1937544996, \"region_Africa\": 1.0, \"region_Asia\": 0.0, \"region_Europe\": 0.0, \"region_North_America\": 0.0, \"region_Oceania\": 0.0, \"region_South_America\": 0.0, \"region_Unknown\": 0.0}",
+          "output": "0.10400000000000001",
+          "metadata_country": "Ghana",
+          "metadata_country_code": "GHA",
+          "metadata_year": 1990,
+          "metadata_fold": 2,
+          "metadata_feature_names": [
+            "gini",
+            "education",
+            "social_spending",
+            "region_Africa",
+            "region_Asia",
+            "region_Europe",
+            "region_North_America",
+            "region_Oceania",
+            "region_South_America",
+            "region_Unknown"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_n_classes": null
+        },
+        {
+          "input": "{\"gini\": 0.5901608145, \"education\": 9.1527608228, \"social_spending\": 4.5662024702, \"region_Africa\": 1.0, \"region_Asia\": 0.0, \"region_Europe\": 0.0, \"region_North_America\": 0.0, \"region_Oceania\": 0.0, \"region_South_America\": 0.0, \"region_Unknown\": 0.0}",
+          "output": "0.73",
+          "metadata_country": "Ghana",
+          "metadata_country_code": "GHA",
+          "metadata_year": 2006,
+          "metadata_fold": 3,
+          "metadata_feature_names": [
+            "gini",
+            "education",
+            "social_spending",
+            "region_Africa",
+            "region_Asia",
+            "region_Europe",
+            "region_North_America",
+            "region_Oceania",
+            "region_South_America",
+            "region_Unknown"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_n_classes": null
+        },
+        {
+          "input": "{\"gini\": 0.4495709874, \"education\": 8.7945847271, \"social_spending\": 14.599519623700001, \"region_Africa\": 1.0, \"region_Asia\": 0.0, \"region_Europe\": 0.0, \"region_North_America\": 0.0, \"region_Oceania\": 0.0, \"region_South_America\": 0.0, \"region_Unknown\": 0.0}",
+          "output": "0.663",
+          "metadata_country": "Ghana",
+          "metadata_country_code": "GHA",
+          "metadata_year": 2022,
+          "metadata_fold": 4,
+          "metadata_feature_names": [
+            "gini",
+            "education",
+            "social_spending",
+            "region_Africa",
+            "region_Asia",
+            "region_Europe",
+            "region_North_America",
+            "region_Oceania",
+            "region_South_America",
+            "region_Unknown"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_n_classes": null
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "description": "Post-1990 democratizers panel (1990-2022) - Mini demo dataset",
+    "source": "OWID (World Bank PIP, V-Dem, Barro-Lee, OECD)",
+    "n_countries": 5,
+    "years": "1990-2022",
+    "feature_cols": [
+      "gini",
+      "education",
+      "social_spending",
+      "region_Africa",
+      "region_Asia",
+      "region_Europe",
+      "region_North_America",
+      "region_Oceania",
+      "region_South_America",
+      "region_Unknown"
+    ],
+    "target_col": "v2x_polyarchy"
+  }
+}
