@@ -1,0 +1,14 @@
+[project]
+name = "post1990-democratizers-panel"
+version = "1.0.0"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas==3.0.3",
+    "numpy==2.4.6",
+    "scikit-learn==1.9.0",
+    "loguru",
+]
+
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.backends.legacy:build"

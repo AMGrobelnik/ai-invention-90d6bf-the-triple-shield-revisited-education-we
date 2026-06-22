@@ -1,0 +1,69 @@
+{
+  "datasets": [
+    {
+      "dataset": "owid_panel_triple_shield",
+      "examples": [
+        {
+          "input": "{\"gini\": null, \"education_years\": 8.61, \"social_spending\": null, \"gdp_per_capita\": 5560.857, \"resource_rents\": 8.22403, \"population\": 3277965.0, \"gini_x_education\": null, \"gini_x_social\": null, \"triple_interaction\": null}",
+          "output": "0.187",
+          "metadata_fold": 0,
+          "metadata_feature_names": [
+            "gini",
+            "education_years",
+            "social_spending",
+            "gdp_per_capita",
+            "resource_rents",
+            "population",
+            "gini_x_education",
+            "gini_x_social",
+            "triple_interaction"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_row_index": 0,
+          "metadata_country": "ALB",
+          "metadata_year": 1990
+        },
+        {
+          "input": "{\"gini\": null, \"education_years\": 8.0, \"social_spending\": null, \"gdp_per_capita\": 4027.9055, \"resource_rents\": 9.885754, \"population\": 3282608.0, \"gini_x_education\": null, \"gini_x_social\": null, \"triple_interaction\": null}",
+          "output": "0.367",
+          "metadata_fold": 1,
+          "metadata_feature_names": [
+            "gini",
+            "education_years",
+            "social_spending",
+            "gdp_per_capita",
+            "resource_rents",
+            "population",
+            "gini_x_education",
+            "gini_x_social",
+            "triple_interaction"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_row_index": 1,
+          "metadata_country": "ALB",
+          "metadata_year": 1991
+        },
+        {
+          "input": "{\"gini\": null, \"education_years\": 8.0, \"social_spending\": null, \"gdp_per_capita\": 3761.1555, \"resource_rents\": 11.728839, \"population\": 3282506.0, \"gini_x_education\": null, \"gini_x_social\": null, \"triple_interaction\": null}",
+          "output": "0.42",
+          "metadata_fold": 2,
+          "metadata_feature_names": [
+            "gini",
+            "education_years",
+            "social_spending",
+            "gdp_per_capita",
+            "resource_rents",
+            "population",
+            "gini_x_education",
+            "gini_x_social",
+            "triple_interaction"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_row_index": 2,
+          "metadata_country": "ALB",
+          "metadata_year": 1992
+        }
+      ]
+    }
+  ]
+}

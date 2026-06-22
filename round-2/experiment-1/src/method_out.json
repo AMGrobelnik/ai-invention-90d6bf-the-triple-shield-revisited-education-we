@@ -1,0 +1,40 @@
+{
+  "datasets": [
+    {
+      "dataset": "owid_panel_triple_shield",
+      "examples": [
+        {
+          "input": "{\"model\": \"triple_interaction\", \"n_countries\": 50, \"n_observations\": 1641, \"n_imputations\": 50}",
+          "output": "0.006507146122133397",
+          "metadata_fold": 0,
+          "metadata_feature_names": [
+            "gini_z",
+            "education_years_z",
+            "social_spending_z",
+            "gini_x_edu",
+            "gini_x_soc",
+            "triple_int"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_row_index": 0,
+          "metadata_country": "ALL",
+          "metadata_year": 2022
+        },
+        {
+          "input": "{\"model\": \"main_effects\", \"n_countries\": 50}",
+          "output": "0.017281821161536474",
+          "metadata_fold": 1,
+          "metadata_feature_names": [
+            "gini_z",
+            "education_years_z",
+            "social_spending_z"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_row_index": 1,
+          "metadata_country": "ALL",
+          "metadata_year": 2022
+        }
+      ]
+    }
+  ]
+}

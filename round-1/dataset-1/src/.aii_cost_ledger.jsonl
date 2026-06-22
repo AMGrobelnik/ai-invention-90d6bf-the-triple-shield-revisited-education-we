@@ -1,0 +1,23 @@
+{"ts": 1782126215.9870188, "tool": "aii_web_tools__search", "cost_usd": 0.001, "query": "Our World in Data V-Dem electoral democracy index dataset", "count": 5}
+{"ts": 1782126227.0932496, "tool": "aii_web_tools__search", "cost_usd": 0.001, "query": "Our World in Data 'population total' dataset grapher", "count": 3}
+{"ts": 1782126227.1693165, "tool": "aii_web_tools__search", "cost_usd": 0.001, "query": "Our World in Data 'Gini coefficient' dataset grapher", "count": 3}
+{"ts": 1782126227.1769204, "tool": "aii_web_tools__search", "cost_usd": 0.001, "query": "Our World in Data 'social protection spending' dataset grapher", "count": 3}
+{"ts": 1782126227.1738148, "tool": "aii_web_tools__search", "cost_usd": 0.001, "query": "Our World in Data 'mean years of schooling' dataset grapher", "count": 3}
+{"ts": 1782126227.174329, "tool": "aii_web_tools__search", "cost_usd": 0.001, "query": "Our World in Data 'natural resource rents' dataset grapher", "count": 3}
+{"ts": 1782126227.3130612, "tool": "aii_web_tools__search", "cost_usd": 0.001, "query": "Our World in Data 'GDP per capita' dataset grapher", "count": 3}
+{"ts": 1782126273.7708201, "tool": "aii_web_tools__search", "cost_usd": 0.001, "query": "Our World in Data API CSV download data catalog", "count": 5}
+{"ts": 1782126285.3118389, "tool": "aii_web_tools__search", "cost_usd": 0.001, "query": "'OECD social expenditure database CSV' direct CSV download URL", "count": 3}
+{"ts": 1782126285.3807263, "tool": "aii_web_tools__search", "cost_usd": 0.001, "query": "'UNESCO mean years schooling data' direct CSV download URL", "count": 3}
+{"ts": 1782126285.402817, "tool": "aii_web_tools__search", "cost_usd": 0.001, "query": "'V-Dem dataset v2x_polyarchy' direct CSV download URL", "count": 3}
+{"ts": 1782126285.5197847, "tool": "aii_web_tools__search", "cost_usd": 0.001, "query": "'World Bank GDP per capita API' direct CSV download URL", "count": 3}
+{"ts": 1782126285.5239465, "tool": "aii_web_tools__search", "cost_usd": 0.001, "query": "'World Bank Gini coefficient API' direct CSV download URL", "count": 3}
+{"ts": 1782126426.8060036, "tool": "aii_web_tools__search", "cost_usd": 0.001, "query": "'SWIID Gini coefficient dataset' CSV download post-1990 panel", "count": 3}
+{"ts": 1782126426.8724163, "tool": "aii_web_tools__search", "cost_usd": 0.001, "query": "'V-Dem v2x_polyarchy dataset' CSV download post-1990 panel", "count": 3}
+{"ts": 1782126427.0069027, "tool": "aii_web_tools__search", "cost_usd": 0.001, "query": "'Barro-Lee education dataset' CSV download post-1990 panel", "count": 3}
+{"ts": 1782126427.0558393, "tool": "aii_web_tools__search", "cost_usd": 0.001, "query": "'OECD SOCX social expenditure' CSV download post-1990 panel", "count": 3}
+{"ts": 1782126427.082339, "tool": "aii_web_tools__search", "cost_usd": 0.001, "query": "'World Bank development indicators API' CSV download post-1990 panel", "count": 3}
+{"ts": 1782126450.7725332, "tool": "aii_web_tools__search", "cost_usd": 0.001, "query": "'OECD social expenditure CSV download' direct download CSV panel data 1990-2022", "count": 3}
+{"ts": 1782126450.904738, "tool": "aii_web_tools__search", "cost_usd": 0.001, "query": "'V-Dem v2x_polyarchy CSV' direct download CSV panel data 1990-2022", "count": 3}
+{"ts": 1782126451.0674865, "tool": "aii_web_tools__search", "cost_usd": 0.001, "query": "'World Bank GDP population API' direct download CSV panel data 1990-2022", "count": 3}
+{"ts": 1782126451.0690699, "tool": "aii_web_tools__search", "cost_usd": 0.001, "query": "'World Bank Gini SWIID complete' direct download CSV panel data 1990-2022", "count": 3}
+{"ts": 1782126451.2919981, "tool": "aii_web_tools__search", "cost_usd": 0.001, "query": "'UNESCO Institute Statistics education' direct download CSV panel data 1990-2022", "count": 3}

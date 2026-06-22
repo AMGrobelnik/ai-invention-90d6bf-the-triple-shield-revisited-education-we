@@ -1,0 +1,94 @@
+{
+  "datasets": [
+    {
+      "dataset": "post1990_democratizers_panel",
+      "examples": [
+        {
+          "input": "{\"gini\": 0.3802126491, \"education\": 10.259296107499999, \"social_spending\": 18.3496407147, \"region_Africa\": 0.0, \"region_Asia\": 1.0, \"region_Europe\": 0.0, \"region_North_America\": 0.0, \"region_Oceania\": 0.0, \"region_South_America\": 0.0, \"region_Unknown\": 0.0}",
+          "output": "0.5650000000000001",
+          "metadata_country": "Armenia",
+          "metadata_country_code": "ARM",
+          "metadata_year": 1990,
+          "metadata_fold": 0,
+          "metadata_feature_names": [
+            "gini",
+            "education",
+            "social_spending",
+            "region_Africa",
+            "region_Asia",
+            "region_Europe",
+            "region_North_America",
+            "region_Oceania",
+            "region_South_America",
+            "region_Unknown"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_n_classes": null
+        },
+        {
+          "input": "{\"gini\": 0.31764456490000004, \"education\": 4.9808561807, \"social_spending\": 7.6005821975, \"region_Africa\": 0.0, \"region_Asia\": 1.0, \"region_Europe\": 0.0, \"region_North_America\": 0.0, \"region_Oceania\": 0.0, \"region_South_America\": 0.0, \"region_Unknown\": 0.0}",
+          "output": "0.608",
+          "metadata_country": "Armenia",
+          "metadata_country_code": "ARM",
+          "metadata_year": 1991,
+          "metadata_fold": 1,
+          "metadata_feature_names": [
+            "gini",
+            "education",
+            "social_spending",
+            "region_Africa",
+            "region_Asia",
+            "region_Europe",
+            "region_North_America",
+            "region_Oceania",
+            "region_South_America",
+            "region_Unknown"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_n_classes": null
+        },
+        {
+          "input": "{\"gini\": 0.45829591900000005, \"education\": 4.7830243144, \"social_spending\": 15.0171699312, \"region_Africa\": 0.0, \"region_Asia\": 1.0, \"region_Europe\": 0.0, \"region_North_America\": 0.0, \"region_Oceania\": 0.0, \"region_South_America\": 0.0, \"region_Unknown\": 0.0}",
+          "output": "0.611",
+          "metadata_country": "Armenia",
+          "metadata_country_code": "ARM",
+          "metadata_year": 1992,
+          "metadata_fold": 2,
+          "metadata_feature_names": [
+            "gini",
+            "education",
+            "social_spending",
+            "region_Africa",
+            "region_Asia",
+            "region_Europe",
+            "region_North_America",
+            "region_Oceania",
+            "region_South_America",
+            "region_Unknown"
+          ],
+          "metadata_task_type": "regression",
+          "metadata_n_classes": null
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "description": "Post-1990 democratizers panel (1990-2022)",
+    "source": "OWID (World Bank PIP, V-Dem, Barro-Lee, OECD)",
+    "n_countries": 48,
+    "years": "1990-2022",
+    "feature_cols": [
+      "gini",
+      "education",
+      "social_spending",
+      "region_Africa",
+      "region_Asia",
+      "region_Europe",
+      "region_North_America",
+      "region_Oceania",
+      "region_South_America",
+      "region_Unknown"
+    ],
+    "target_col": "v2x_polyarchy"
+  }
+}

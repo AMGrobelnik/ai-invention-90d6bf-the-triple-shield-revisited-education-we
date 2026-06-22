@@ -1,0 +1,16 @@
+{
+  "title": "Post-1990 Democratizers Panel Dataset (1990-2022)",
+  "layman_summary": "Panel dataset tracking inequality, democracy, education, and social spending across 48 countries that democratized after 1990, with missing values imputed using MICE.",
+  "summary": "This dataset contains 1,552 country-year observations from 48 post-1990 democratizers covering 1990-2022. Variables include: (1) Gini coefficient (0-1 scale, mean=0.39, correctly scaled from World Bank PIP via OWID), (2) V-Dem Electoral Democracy Index (0-1 scale, mean=0.61), (3) Mean years of schooling (0-17 years, mean=8.3), (4) Social protection spending (% GDP, mean=13.2%). Data sources: OWID (World Bank PIP, V-Dem v13, Barro-Lee education, OECD social spending). Multiple Imputation by Chained Equations (MICE) applied via sklearn IterativeImputer with bounds constraints to ensure valid ranges. Dataset formatted for experiment pipeline as regression task: predict V-Dem democracy index from Gini + education + social spending + region dummies. JSON schema validated against exp_sel_data_out.json format. Files: full_data_out.json (1.4MB, 1,552 examples), mini_data_out.json (3.4KB, 3 examples), preview_data_out.json (2.4KB, 3 truncated examples). Data dictionary and metadata included. File size well under 300MB limit (actual: 2MB).",
+  "out_expected_files": {
+    "script": "data.py",
+    "datasets": [
+      {
+        "full": ["full_data_out.json"],
+        "mini": "mini_data_out.json",
+        "preview": "preview_data_out.json"
+      }
+    ]
+  },
+  "upload_ignore_regexes": []
+}

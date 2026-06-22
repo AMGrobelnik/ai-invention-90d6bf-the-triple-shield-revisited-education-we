@@ -1,0 +1,69 @@
+{
+  "model1_params": {
+    "const": 0.6175140664961637,
+    "gini_std": 0.006258731813803219,
+    "education_years_std": 0.0012982820267510866,
+    "social_spending_std": -0.0009191773306429549,
+    "gdp_per_capita_std": -0.034155246235422744,
+    "resource_rents_std": 0.004700146448263532
+  },
+  "model1_pvalues": {
+    "const": 0.0,
+    "gini_std": 0.39334723856542,
+    "education_years_std": 0.906212286132523,
+    "social_spending_std": 0.9433121786606065,
+    "gdp_per_capita_std": 0.17564858653999504,
+    "resource_rents_std": 0.7436171059340722
+  },
+  "model1_rsquared": 0.02197243170220653,
+  "model2_params": {
+    "const": 0.6209602809308817,
+    "gini_std": 0.0071356318677243055,
+    "education_years_std": 0.007185470214185561,
+    "social_spending_std": 0.0034749939790717976,
+    "gdp_per_capita_std": -0.03352166451959653,
+    "resource_rents_std": 0.006657621486475048,
+    "gini_x_edu_std": 0.005736191419413369,
+    "gini_x_soc_std": -0.0012317081998838874,
+    "edu_x_soc_std": -0.00787765914411246
+  },
+  "model2_pvalues": {
+    "const": 0.0,
+    "gini_std": 0.32568619090123474,
+    "education_years_std": 0.6663665676471928,
+    "social_spending_std": 0.8039005176490512,
+    "gdp_per_capita_std": 0.19786638675892854,
+    "resource_rents_std": 0.6668996683423785,
+    "gini_x_edu_std": 0.20460511754430066,
+    "gini_x_soc_std": 0.8363602556459684,
+    "edu_x_soc_std": 0.32704888924591313
+  },
+  "model2_rsquared": 0.031730623960485316,
+  "model3_params": {
+    "const": 0.6210426252136257,
+    "gini_std": 0.005460014715283878,
+    "education_years_std": 0.006840471511763442,
+    "social_spending_std": 0.0010721700740354253,
+    "gdp_per_capita_std": -0.03398040809790895,
+    "resource_rents_std": 0.006705252124064704,
+    "gini_x_edu_std": 0.003428035574767407,
+    "gini_x_soc_std": -0.0012504135541864306,
+    "edu_x_soc_std": -0.006895792391513789,
+    "triple_std": 0.0067767941491801535
+  },
+  "model3_pvalues": {
+    "const": 0.0,
+    "gini_std": 0.4370975018455643,
+    "education_years_std": 0.6815339338875863,
+    "social_spending_std": 0.93707566886096,
+    "gdp_per_capita_std": 0.19288547259552713,
+    "resource_rents_std": 0.6657268677511587,
+    "gini_x_edu_std": 0.5102909369012969,
+    "gini_x_soc_std": 0.825712522735774,
+    "edu_x_soc_std": 0.3642874789031616,
+    "triple_std": 0.18159991988966628
+  },
+  "model3_rsquared": 0.034707451193232375,
+  "n_obs": 391,
+  "n_entities": 34
+}

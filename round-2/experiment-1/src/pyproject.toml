@@ -1,0 +1,16 @@
+[project]
+name = "triple-shield-analysis"
+version = "0.1.0"
+description = "Re-test Triple Interaction with Corrected Gini and MICE Multiple Imputation"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=2.0.0",
+    "numpy>=1.24.0",
+    "scipy>=1.10.0",
+    "miceforest>=5.0.0",
+    "linearmodels>=4.28.0",
+    "statsmodels>=0.14.0",
+    "scikit-learn>=1.3.0",
+    "loguru>=0.7.0",
+    "pyarrow>=12.0.0",
+]

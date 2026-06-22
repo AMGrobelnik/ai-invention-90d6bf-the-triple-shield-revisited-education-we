@@ -1,0 +1,27 @@
+{
+  "dataset_name": "owid_panel_triple_shield",
+  "n_examples": 1641,
+  "n_countries": 50,
+  "years": "1990-2022",
+  "task_type": "regression",
+  "target": "vdem_electoral",
+  "features": [
+    "gini",
+    "education_years",
+    "social_spending",
+    "gdp_per_capita",
+    "resource_rents",
+    "population",
+    "gini_x_education",
+    "gini_x_social",
+    "triple_interaction"
+  ],
+  "missing_data": {
+    "gini": 895,
+    "education_years": 562,
+    "social_spending": 851,
+    "gini_x_education": 1129,
+    "gini_x_social": 1174,
+    "triple_interaction": 1250
+  }
+}
